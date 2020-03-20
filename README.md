@@ -1,3 +1,9 @@
+## How to cite
+
+https://github.com/ebmdatalab/repeat-prescribing-pandemic-covid-notebook 
+
+## Further information on EBM DataLab work
+
 # EBM DataLab's skeleton notebook environment
 
 ![status](https://github.com/ebmdatalab/<repo>/workflows/Notebook%20checks/badge.svg)
@@ -26,6 +32,4 @@ though looking at them in Github should also work.
 To do development work, you'll need to set up a local jupyter server
 and git repository - see `DEVELOPERS.md` for more detail.
 
-## How to cite
 
-XXX Please change to either a paper (if published) or the repo. You may find it helpful to use Zenodo DOI (see `DEVELOPERS.md` for further information)
